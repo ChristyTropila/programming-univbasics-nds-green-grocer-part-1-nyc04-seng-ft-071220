@@ -5,7 +5,7 @@ def find_item_by_name_in_collection(name, collection)
     if grocery_hash[:item]==name
       puts "hello"
     end
-    binding.pry
+  #  binding.pry
 
   end
 
